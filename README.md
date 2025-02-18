@@ -15,8 +15,7 @@ Este proyecto es una base para aplicaciones Java con Hibernate y JPA, utilizando
 Para clonar este repositorio y comenzar a trabajar en él:
 
 ```bash
-git clone https://github.com/Sebaspallero/JPA-Hibernate-Vivero
-cd JPA-Hibernate-Vivero
+git clone https://github.com/milivarona/vivero2.git
 mvn clean install
 ```
 
